@@ -3,7 +3,17 @@
 [![GitHub Pages](https://img.shields.io/badge/Live_Demo-Available-brightgreen)](https://atharvashukla13.github.io/portfolio/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-![Portfolio Screenshot](./images/portfolio-screenshot.png)
+![Portfolio Screenshot]
+![image](https://github.com/user-attachments/assets/71ec947e-2ee6-4621-8550-8d71e17cfe4c)
+![image](https://github.com/user-attachments/assets/b43086ef-1bbd-457d-b785-9d570dd1a69d)
+![image](https://github.com/user-attachments/assets/ca3d1a78-3706-4e09-a167-c009eb6fc555)
+![image](https://github.com/user-attachments/assets/06609880-b896-40e8-a1b5-5dafb951b943)
+![image](https://github.com/user-attachments/assets/d63269d5-2047-4f4b-ac12-c68db27d6c98)
+
+
+
+
+
 
 ## 🌟 Features
 - **Modern Glassmorphism UI** with theme toggle (dark/light)
