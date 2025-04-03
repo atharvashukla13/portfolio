@@ -83,4 +83,4 @@ GitHub: @atharvashukla13
 
 Email: shuklaatharva813@gmail.com
 
-LinkedIn: [Your Profile](https://www.linkedin.com/in/atharva-shukla-669734285/)
+LinkedIn: [My Profile](https://www.linkedin.com/in/atharva-shukla-669734285/)
